@@ -1,4 +1,4 @@
-## Full Stack Web Developer
+## Full Stack Software Developer
 
 #### Hi there 👋. Thank you for visiting my GitHub. I am a front-end heavy full-stack developer and top-level on Guru.com (https://www.guru.com/freelancers/sergey-terekhov). I am also pursuing my Bachelor's in Computer Science & Engineering and will graduate in mid-2011.
 
